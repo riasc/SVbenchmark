@@ -15,6 +15,10 @@ Datasets, scripts, and anything useful for benchmarking SVs
 
 ## SV Simulators
 
+SURVIVOR
+Sim-It
+
+
 
 
 
@@ -28,8 +32,8 @@ Datasets, scripts, and anything useful for benchmarking SVs
 | name | reference | code |
 | ---- | --------- | ----- |
 | DELLY | [Rausch et al., 2012](https://academic.oup.com/bioinformatics/article/28/18/i333/245403) | [https://github.com/dellytools/delly](https://github.com/dellytools/delly)
-| LUMPY | [Layer et al., 2014](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-6-r84) |
-| Manta | [Chen et al., 2016](https://academic.oup.com/bioinformatics/article/32/8/1220/1743909)| 
+| LUMPY | [Layer et al., 2014](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-6-r84) | [https://github.com/arq5x/lumpy-sv](https://github.com/arq5x/lumpy-sv)
+| Manta | [Chen et al., 2016](https://academic.oup.com/bioinformatics/article/32/8/1220/1743909)| [https://github.com/Illumina/manta](https://github.com/Illumina/manta)
 | GRIDSS | [Cameron et al., 2017](https://genome.cshlp.org/content/27/12/2050)|
 | SvABA | [Wala et al., 2018](https://genome.cshlp.org/content/28/4/581)| [https://github.com/walaj/svaba](https://github.com/walaj/svaba) |
 | Varlociraptor | [Köster et al., 2020](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01993-6)| [https://github.com/varlociraptor/varlociraptor](https://github.com/varlociraptor/varlociraptor) 
@@ -81,7 +85,7 @@ Datasets, scripts, and anything useful for benchmarking SVs
 ### Feature Comparison
 | tool | type | information | DEL | INS | DUP | INV | TRA | CMPLX |
 | ---- | --------- | ---- | ---- | ----- | ---- | ---- | ---- | ---- |
-| SVIM | read-alignment | SR and discordant | | | | | |
+| SVIM | read-alignment | SR and discordant | x | x | x | x | x |
 
 
 ### Visualization

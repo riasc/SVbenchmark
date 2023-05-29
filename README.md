@@ -72,6 +72,7 @@ Sim-It
 | SVision | [https://github.com/xjtu-omics/SVision](https://github.com/xjtu-omics/SVision) | [Lin et al., 2022](https://www.nature.com/articles/s41592-022-01609-w)|
 | cnnLSV | [https://github.com/mhuidong/cnnLSV](https://github.com/mhuidong/cnnLSV)| [Ma et al., 2023](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05243-x)
 | DeepVariant | |
+| SVcnn | [https://github.com/nwpuzhengyan/SVcnn](https://github.com/nwpuzhengyan/SVcnn) | [Zheng et al., 2023](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05324-x)
 
 
 ### Graph-based 

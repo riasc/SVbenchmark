@@ -53,7 +53,7 @@ Sim-It
 | Sniffles | [https://github.com/fritzsedlazeck/Sniffles](https://github.com/fritzsedlazeck/Sniffles)| [Sedlaczek et al., 2018](https://www.nature.com/articles/s41592-018-0001-7)
 | SVDSS | [https://github.com/Parsoa/SVDSS](https://github.com/Parsoa/SVDSS)| [Denti et al., 2022](https://www.nature.com/articles/s41592-022-01674-1) |
 | SVIM | [https://github.com/eldariont/svim](https://github.com/eldariont/svim) | [Heller et al., 2019](https://academic.oup.com/bioinformatics/article/35/17/2907/5298305) |
-| HySA | | 
+| HySA | | [Fan et al., 2017](https://genome.cshlp.org/content/27/5/793.short)
 | pbhoney | [English et al., 2014](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-180)| [http://sourceforge.net/projects/pb-jelly](http://sourceforge.net/projects/pb-jelly/)
 | NanoSV | | 
 | Picky | [Gong et al., 2018](https://www.nature.com/articles/s41592-018-0002-6) | [https://github.com/TheJacksonLaboratory/Picky](https://github.com/TheJacksonLaboratory/Picky) 

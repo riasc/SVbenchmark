@@ -58,8 +58,8 @@ Sim-It
 | NanoSV | | 
 | Picky | [Gong et al., 2018](https://www.nature.com/articles/s41592-018-0002-6) | [https://github.com/TheJacksonLaboratory/Picky](https://github.com/TheJacksonLaboratory/Picky) 
 | NanoVar | [Stancu et al., 2017](https://www.nature.com/articles/s41467-017-01343-4) | [https://github.com/mroosmalen/nanosv](https://github.com/mroosmalen/nanosv)
-| nanomonsv | |
 | SVsearcher | [https://github.com/kensung-lab/SVsearcher](https://github.com/kensung-lab/SVsearcher) | [Zheng et al., 2023](https://www.sciencedirect.com/science/article/pii/S0010482523003086) |
+| nanomonsv | [https://github.com/friend1ws/nanomonsv](https://github.com/friend1ws/nanomonsv) | [Shiraishi et al., 2023](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad526/7201946) | 
 
 
 
